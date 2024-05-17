@@ -1,0 +1,6 @@
+{
+    "inference.model": "codellama:7b-code-q4_K_M",
+    "cSpell.words": [
+        "ambientlight"
+    ]
+}
